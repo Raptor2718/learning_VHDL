@@ -1,0 +1,137 @@
+# //  Questa Intel Starter FPGA Edition-64
+# //  Version 2023.3 linux_x86_64 Jul 17 2023
+# //
+# //  Copyright 1991-2023 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do VHDL_testing_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Questa Intel Starter FPGA Edition-64 vmap 2023.3 Lib Mapping Utility 2023.07 Jul 17 2023
+# vmap work rtl_work 
+# Copying /opt/intelFPGA_lite/23.1std/questa_fse/linux_x86_64/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -2008 -work work {/home/nidu/GitHub/learning_VHDL/flpr.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 21:17:09 on May 24,2024
+# vcom -reportprogress 300 -2008 -work work /home/nidu/GitHub/learning_VHDL/flpr.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity flpr
+# -- Compiling architecture asynchronous of flpr
+# End time: 21:17:09 on May 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {/home/nidu/GitHub/learning_VHDL/flpenr.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 21:17:09 on May 24,2024
+# vcom -reportprogress 300 -2008 -work work /home/nidu/GitHub/learning_VHDL/flpenr.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity flpenr
+# -- Compiling architecture asynchronous of flpenr
+# End time: 21:17:09 on May 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {/home/nidu/GitHub/learning_VHDL/dl.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 21:17:09 on May 24,2024
+# vcom -reportprogress 300 -2008 -work work /home/nidu/GitHub/learning_VHDL/dl.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity dl
+# -- Compiling architecture a of dl
+# End time: 21:17:09 on May 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {/home/nidu/GitHub/learning_VHDL/seven_seg_decoder.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 21:17:09 on May 24,2024
+# vcom -reportprogress 300 -2008 -work work /home/nidu/GitHub/learning_VHDL/seven_seg_decoder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity seven_seg_decoder
+# -- Compiling architecture synth of seven_seg_decoder
+# End time: 21:17:09 on May 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {/home/nidu/GitHub/learning_VHDL/fulladder.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 21:17:09 on May 24,2024
+# vcom -reportprogress 300 -2008 -work work /home/nidu/GitHub/learning_VHDL/fulladder.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fulladder
+# -- Compiling architecture blocking of fulladder
+# End time: 21:17:09 on May 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {/home/nidu/GitHub/learning_VHDL/fulladderw.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 21:17:09 on May 24,2024
+# vcom -reportprogress 300 -2008 -work work /home/nidu/GitHub/learning_VHDL/fulladderw.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity fulladderw
+# -- Compiling architecture nonblocking of fulladderw
+# End time: 21:17:09 on May 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {/home/nidu/GitHub/learning_VHDL/sync_two_dff.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 21:17:09 on May 24,2024
+# vcom -reportprogress 300 -2008 -work work /home/nidu/GitHub/learning_VHDL/sync_two_dff.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity sync_two_dff
+# -- Compiling architecture seq of sync_two_dff
+# End time: 21:17:09 on May 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {/home/nidu/GitHub/learning_VHDL/sync_two_dffw.vhd}
+# Questa Intel Starter FPGA Edition-64 vcom 2023.3 Compiler 2023.07 Jul 17 2023
+# Start time: 21:17:09 on May 24,2024
+# vcom -reportprogress 300 -2008 -work work /home/nidu/GitHub/learning_VHDL/sync_two_dffw.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity sync_two_dffw
+# -- Compiling architecture bad of sync_two_dffw
+# End time: 21:17:09 on May 24,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# 
+# stdin: <EOF>
+vsim -voptargs=+acc work.sync_two_dffw
+# vsim -voptargs="+acc" work.sync_two_dffw 
+# Start time: 21:17:17 on May 24,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.sync_two_dffw(bad)#1
+add wave -position insertpoint  \
+sim:/sync_two_dffw/clk \
+sim:/sync_two_dffw/d \
+sim:/sync_two_dffw/q
+force -freeze sim:/sync_two_dffw/clk 0 0
+noforce sim:/sync_two_dffw/d
+force -freeze sim:/sync_two_dffw/d 0 0
+run
+force -freeze sim:/sync_two_dffw/clk 0 0, 1 {50 ns} -r 100
+run
+run

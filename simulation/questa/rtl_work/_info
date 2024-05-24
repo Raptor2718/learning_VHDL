@@ -1,0 +1,353 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11e vcom 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/nidu/GitHub/learning_VHDL/simulation/questa
+T_opt
+!s110 1716581838
+V9mmLSK:ZQAaee:CBR@JYA0
+04 13 3 work sync_two_dffw bad 1
+=1-000ae431a4f1-6650f5cd-d75aa-13e0
+R0
+!s12b OEM100
+!s124 OEM10U1 
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+Edl
+Z2 w1716126098
+Z3 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
+Z4 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
+!i122 2
+R1
+Z5 8/home/nidu/GitHub/learning_VHDL/dl.vhd
+Z6 F/home/nidu/GitHub/learning_VHDL/dl.vhd
+l0
+L3 1
+VZHaFnCeMGYfamHVn`@9Qh2
+!s100 z6l4iBiQ^EOoe[b:d4Q[<3
+Z7 OL;C;2023.3;77
+33
+Z8 !s110 1716581829
+!i10b 1
+Z9 !s108 1716581829.000000
+Z10 !s90 -reportprogress|300|-2008|-work|work|/home/nidu/GitHub/learning_VHDL/dl.vhd|
+Z11 !s107 /home/nidu/GitHub/learning_VHDL/dl.vhd|
+!i113 0
+Z12 o-2008 -work work
+Z13 tExplicit 1 CvgOpt 0
+Aa
+R3
+R4
+DEx4 work 2 dl 0 22 ZHaFnCeMGYfamHVn`@9Qh2
+!i122 2
+l10
+L9 7
+VmSPG>Aa0A49>iQ5[XKE]_1
+!s100 DUNVSoD;a]WiDkUR1FeeT3
+R7
+33
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Eflpenr
+Z14 w1716126628
+R3
+R4
+!i122 1
+R1
+Z15 8/home/nidu/GitHub/learning_VHDL/flpenr.vhd
+Z16 F/home/nidu/GitHub/learning_VHDL/flpenr.vhd
+l0
+L3 1
+V3dbMUBU1N6DP73gzZliV12
+!s100 gb0D^GG23e0_Sn3[;NV:E1
+R7
+33
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-2008|-work|work|/home/nidu/GitHub/learning_VHDL/flpenr.vhd|
+Z18 !s107 /home/nidu/GitHub/learning_VHDL/flpenr.vhd|
+!i113 0
+R12
+R13
+Aasynchronous
+R3
+R4
+DEx4 work 6 flpenr 0 22 3dbMUBU1N6DP73gzZliV12
+!i122 1
+l10
+Z19 L9 10
+VFh=fTLC?VjlA[VIK2d6Vz0
+!s100 f]JWQKDARJKM0>2W[183e0
+R7
+33
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 0
+R12
+R13
+Eflpr
+Z20 w1716194711
+R3
+R4
+!i122 0
+R1
+Z21 8/home/nidu/GitHub/learning_VHDL/flpr.vhd
+Z22 F/home/nidu/GitHub/learning_VHDL/flpr.vhd
+l0
+L3 1
+VkSQ[A0Wj4MQN4]LSN4T[g3
+!s100 1]i:?ZZF^IkABZKFZo8mN2
+R7
+33
+R8
+!i10b 1
+R9
+Z23 !s90 -reportprogress|300|-2008|-work|work|/home/nidu/GitHub/learning_VHDL/flpr.vhd|
+Z24 !s107 /home/nidu/GitHub/learning_VHDL/flpr.vhd|
+!i113 0
+R12
+R13
+Aasynchronous
+R3
+R4
+DEx4 work 4 flpr 0 22 kSQ[A0Wj4MQN4]LSN4T[g3
+!i122 0
+l10
+R19
+VFLc:QzH94Mh7A4DO7:>Hn2
+!s100 ^]`O?nRAc64ajVDkFb=?O3
+R7
+33
+R8
+!i10b 1
+R9
+R23
+R24
+!i113 0
+R12
+R13
+Efulladder
+Z25 w1716579135
+R3
+R4
+!i122 4
+R1
+Z26 8/home/nidu/GitHub/learning_VHDL/fulladder.vhd
+Z27 F/home/nidu/GitHub/learning_VHDL/fulladder.vhd
+l0
+L3 1
+VhT?0nI8=k=bEz=?``_Wm72
+!s100 0@0YEY@UaNio;P>@z4=EC3
+R7
+33
+R8
+!i10b 1
+R9
+Z28 !s90 -reportprogress|300|-2008|-work|work|/home/nidu/GitHub/learning_VHDL/fulladder.vhd|
+Z29 !s107 /home/nidu/GitHub/learning_VHDL/fulladder.vhd|
+!i113 0
+R12
+R13
+Ablocking
+R3
+R4
+DEx4 work 9 fulladder 0 22 hT?0nI8=k=bEz=?``_Wm72
+!i122 4
+l9
+L8 12
+V:fc2Hie^hAd7Haen1U>C=3
+!s100 QXii@9Qmkgc5Z;Vac[2A@0
+R7
+33
+R8
+!i10b 1
+R9
+R28
+R29
+!i113 0
+R12
+R13
+Efulladderw
+Z30 w1716579482
+R3
+R4
+!i122 5
+R1
+Z31 8/home/nidu/GitHub/learning_VHDL/fulladderw.vhd
+Z32 F/home/nidu/GitHub/learning_VHDL/fulladderw.vhd
+l0
+L3 1
+VX`zGCGX1`4CdH3LC;SM[J1
+!s100 kT:8Ngee41oChaH1iFQE13
+R7
+33
+R8
+!i10b 1
+R9
+Z33 !s90 -reportprogress|300|-2008|-work|work|/home/nidu/GitHub/learning_VHDL/fulladderw.vhd|
+Z34 !s107 /home/nidu/GitHub/learning_VHDL/fulladderw.vhd|
+!i113 0
+R12
+R13
+Anonblocking
+R3
+R4
+DEx4 work 10 fulladderw 0 22 X`zGCGX1`4CdH3LC;SM[J1
+!i122 5
+l10
+L8 11
+VQNO=el<9R?l@P`W0I20<>3
+!s100 NK^zKYngI]:jG`PjEP7aI2
+R7
+33
+R8
+!i10b 1
+R9
+R33
+R34
+!i113 0
+R12
+R13
+Eseven_seg_decoder
+Z35 w1716192599
+R3
+R4
+!i122 3
+R1
+Z36 8/home/nidu/GitHub/learning_VHDL/seven_seg_decoder.vhd
+Z37 F/home/nidu/GitHub/learning_VHDL/seven_seg_decoder.vhd
+l0
+L3 1
+Vk>55TN0jO<UIXL_m37oz50
+!s100 ke77<1bBFnM?E5m>K=?]a2
+R7
+33
+R8
+!i10b 1
+R9
+Z38 !s90 -reportprogress|300|-2008|-work|work|/home/nidu/GitHub/learning_VHDL/seven_seg_decoder.vhd|
+Z39 !s107 /home/nidu/GitHub/learning_VHDL/seven_seg_decoder.vhd|
+!i113 0
+R12
+R13
+Asynth
+R3
+R4
+DEx4 work 17 seven_seg_decoder 0 22 k>55TN0jO<UIXL_m37oz50
+!i122 3
+l9
+L8 19
+VM?L9nVR3BZ<]cHAEW8DWG2
+!s100 6H`K^UUlH8<lSkdCi0A:61
+R7
+33
+R8
+!i10b 1
+R9
+R38
+R39
+!i113 0
+R12
+R13
+Esync_two_dff
+Z40 w1716581151
+R3
+R4
+!i122 6
+R1
+Z41 8/home/nidu/GitHub/learning_VHDL/sync_two_dff.vhd
+Z42 F/home/nidu/GitHub/learning_VHDL/sync_two_dff.vhd
+l0
+L3 1
+V>gF8:8?9YCS`ZK:`__@SB1
+!s100 hN5I?nVDC;7hd:7IiC^VZ2
+R7
+33
+R8
+!i10b 1
+R9
+Z43 !s90 -reportprogress|300|-2008|-work|work|/home/nidu/GitHub/learning_VHDL/sync_two_dff.vhd|
+Z44 !s107 /home/nidu/GitHub/learning_VHDL/sync_two_dff.vhd|
+!i113 0
+R12
+R13
+Aseq
+R3
+R4
+DEx4 work 12 sync_two_dff 0 22 >gF8:8?9YCS`ZK:`__@SB1
+!i122 6
+l11
+L9 14
+VbkW0_43FL;JnNO9TWgzWz1
+!s100 RgljAdoa10c[QUj6h>E891
+R7
+33
+R8
+!i10b 1
+R9
+R43
+R44
+!i113 0
+R12
+R13
+Esync_two_dffw
+Z45 w1716581760
+R3
+R4
+!i122 7
+R1
+Z46 8/home/nidu/GitHub/learning_VHDL/sync_two_dffw.vhd
+Z47 F/home/nidu/GitHub/learning_VHDL/sync_two_dffw.vhd
+l0
+L3 1
+VKZB[GWPcz<^Lb5zh48H6a0
+!s100 SZ=1^54H[o[laXZHLn=lA1
+R7
+33
+R8
+!i10b 1
+R9
+Z48 !s90 -reportprogress|300|-2008|-work|work|/home/nidu/GitHub/learning_VHDL/sync_two_dffw.vhd|
+Z49 !s107 /home/nidu/GitHub/learning_VHDL/sync_two_dffw.vhd|
+!i113 0
+R12
+R13
+Abad
+R3
+R4
+DEx4 work 13 sync_two_dffw 0 22 KZB[GWPcz<^Lb5zh48H6a0
+!i122 7
+l10
+L9 11
+V04N1gc:Q[fH=g82G8gZK61
+!s100 l4c[?`dTd3KJ>onM^Ja5n1
+R7
+33
+R8
+!i10b 1
+R9
+R48
+R49
+!i113 0
+R12
+R13

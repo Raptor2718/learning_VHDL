@@ -8,12 +8,12 @@ end;
 
 architecture asynchronous of flpenr	is
 begin
-process(clk, rst) begin
-if rst = '1' then 
-	q <= "0000";
-elsif clk'event and clk = '1' and en = '1' then
-	q <= d;
-end if;
-end process;
+	process(clk, rst) begin
+	if rst = '1' then 
+		q <= 4B"0";
+	elsif clk'event and clk = '1' and en = '1' then
+		q <= d;
+	end if;
+	end process;
 end;
 		
