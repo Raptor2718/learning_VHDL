@@ -135,3 +135,5 @@ run
 force -freeze sim:/sync_two_dffw/clk 0 0, 1 {50 ns} -r 100
 run
 run
+# End time: 21:27:26 on May 24,2024, Elapsed time: 0:10:09
+# Errors: 0, Warnings: 1

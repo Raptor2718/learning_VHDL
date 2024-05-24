@@ -11,9 +11,10 @@ begin
 	process (clk)
 	variable n1		: std_logic;
 	begin
+		n1 := d;
 		if clk'event and clk = '1' then
 			q 	<= n1;
-			n1 := d;
+			--n1 := d;
 		end if;
 	end process;
 end;
